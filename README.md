@@ -17,14 +17,3 @@ Tech Stack
 |-----------------|-------------------|------------------|
 | React + Vite    | Node.js + Express | MongoDB Atlas    |
 | Bootstrap Icons | Axios             | Mongoose         |
-
-Project Structure
-client/ React frontend
--pages/
--Login.jsx
--Home.jsx
--Cart.jsx
--data.js  
--App.jsx
-server/  Express backend
--server.js
