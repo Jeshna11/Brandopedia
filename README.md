@@ -20,11 +20,11 @@ Tech Stack
 
 Project Structure
 client/ React frontend
-└── pages/
-├── Login.jsx
-├── Home.jsx
-└── Cart.jsx
-└── data.js  
-└── App.jsx
+-pages/
+-Login.jsx
+-Home.jsx
+-Cart.jsx
+-data.js  
+-App.jsx
 server/  Express backend
-└── server.js
+-server.js
